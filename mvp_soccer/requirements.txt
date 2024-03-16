@@ -13,4 +13,4 @@ python-dotenv
 
 
 #Package Country
-pycountry
+pycountry==20.7.3
